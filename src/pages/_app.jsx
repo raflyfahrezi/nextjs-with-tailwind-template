@@ -1,6 +1,6 @@
 import React from 'react'
 
-import 'tailwindcss/tailwindcss.css'
+import 'tailwindcss/tailwind.css'
 
 const myApp = ({ Component, pageProps }) => {
     return <Component {...pageProps} />
