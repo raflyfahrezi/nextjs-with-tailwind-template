@@ -23,7 +23,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Linter
+## Linter and Formatter
 
 Linter is a tool to help you improve your code. This project using ESLint as a linter. To lint your code please run the following command.
 
