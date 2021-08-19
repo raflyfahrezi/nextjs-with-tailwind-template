@@ -33,11 +33,11 @@ yarn lint
 
 This project using AirBnB rules and extending Prettier configuration. You can edit ESLint and Prettier configuration in the following paths.
 
-```
-# ESLint
+```bash
+# ESLint Configuration
 ./.eslintrc
 
-# Prettier
+# Prettier Configuration
 ./.prettierrc
 ```
 
